@@ -1,4 +1,4 @@
-# Subscription Manager API – Project Specification (Roadmap Day 50)
+# Subscription Manager API – Project Specification
 
 ## 📌 Project Overview
 The **Subscription Manager API** is a backend system inspired by OTT platforms such as Netflix and Hotstar.
